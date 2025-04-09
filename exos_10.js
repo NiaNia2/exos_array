@@ -1,0 +1,1 @@
+//* Écris une fonction removeDuplicates(arr) qui retourne un tableau sans les doublons */
